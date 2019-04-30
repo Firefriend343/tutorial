@@ -1,0 +1,19 @@
+<html>
+<head>
+<p id="text"></p>
+<script>
+let textElement = document.getElementById('text');
+let phrases = [
+ 'Hello',
+ 'HI',
+ 'Howdy',
+ ];
+let val = Math.floor(Math.random() * phrases.length);
+
+textElement.innerText = 'I like to say: ' + phrases[val];
+
+</script>
+</head>
+<body>
+</body>
+</html>

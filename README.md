@@ -4,3 +4,7 @@ DAN INSTRUCTION BOARD
 2. Rewrite tutorial stuff to make it more understandable
 3. Enclose all text in P to be able to write actual tags in there
 4. Further instructions pending
+
+Aryan' Cards
+
+1. Bayport Assasin-Stats: 7, 1, 4-Ability-Stealth-Minion-Human Assasin

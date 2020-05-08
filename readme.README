@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>View Deck</title>
+	<link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="viewdeck.css">
+</head>
+<body>
+<div id="row1">
+	<table id="c1">
+		<tr>
+			<th colspan="3">Bayport Assasin</th>
+			<th><span class="bluedot"></span></th>
+		</tr>
+		<tr>
+			<td><b>Statistics</b></td>
+			<td class="right"><b>7</b></td>
+			<td class="right"><b>1</b></td>
+			<td class="right"><b>4</b></td>
+		</tr>
+			<tr class="Ability">
+				<th colspan="4" class="Ability">Stealth</th>
+			</tr>
+			<tr>
+				<th colspan="4" class="Empty"></th>
+			</tr>
+			<tr>
+				<th colspan="4">Minion - Human Assasin</th>
+			</tr>
+	</table>
+
+
+
+
+
+	<table id="c2">
+			<tr>
+				<th colspan="3">Ballista</th>
+				<th><span class="greydot"></span></th>
+			</tr>
+			<tr>
+				<td><b>Statistics</b></td>
+				<td class="right"><b>2</b></td>
+				<td class="right"><b>6</b></td>
+				<td class="right"><b>6</b></td>
+			</tr>
+				<tr class="Ability">
+					<th colspan="4" class="Ability">Dualstrike, Ranged</th>
+				</tr>
+				<tr>
+					<th colspan="4" class="Empty"></th>
+				</tr>
+				<tr>
+					<th colspan="4">Minion - Construct</th>
+				</tr>
+	</table>
+
+	<table id="c3">
+		<tr>
+			<th colspan="3">Soldier's Quarters</th>
+			<th><span class="bluedot"></span><span class="bluedot"></span></th>
+		</tr>
+		<tr>
+			<td><b>Statistics</b></td>
+			<td class="right"><b>-</b></td>
+			<td class="right"><b>-</b></td>
+			<td class="right"><b>2</b></td>
+		</tr>
+			<tr class="Ability">
+				<th colspan="4" class="Ability"></th>
+			</tr>
+			<tr>
+				<th colspan="4" class="Empty"></th>
+			</tr>
+			<tr>
+				<th colspan="4">Biome</th>
+			</tr>
+	</table>
+
+
+
+
+
+	<table id="c4">
+			<tr>
+				<th colspan="3">Lightning Soldier</th>
+				<th><span class="whitedot"></span></th>
+			</tr>
+			<tr>
+				<td><b>Statistics</b></td>
+				<td class="right"><b>5</b></td>
+				<td class="right"><b>5</b></td>
+				<td class="right"><b>5</b></td>
+			</tr>
+				<tr class="Ability">
+					<th colspan="4" class="Ability">Flurry</th>
+				</tr>
+				<tr>
+					<th colspan="4" class="Empty"></th>
+				</tr>
+				<tr>
+					<th colspan="4">Minion - Human Soldier</th>
+				</tr>
+	</table>
+
+	<table id="c5">
+			<tr>
+				<th colspan="3">Apprentice of Imerta</th>
+				<th><span class="bluedot"></span></th>
+			</tr>
+			<tr>
+				<td><b>Statistics</b></td>
+				<td class="right"><b>3</b></td>
+				<td class="right"><b>4</b></td>
+				<td class="right"><b>4</b></td>
+			</tr>
+				<tr class="Ability">
+					<th colspan="4" class="Ability">Divine Shield, Flurry</th>
+				</tr>
+				<tr>
+					<th colspan="4" class="Empty"></th>
+				</tr>
+				<tr>
+					<th colspan="4">Minion - Human Paladin</th>
+				</tr>
+	</table>
+
+
+
+
+
+		<table id="c6">
+				<tr>
+					<th colspan="3">Detect Thoughts</th>
+					<th><span class="pinkdot"></span></th>
+				</tr>
+				<tr>
+					<td><b>Statistics</b></td>
+					<td class="right"><b>-</b></td>
+					<td class="right"><b>-</b></td>
+					<td class="right"><b>4</b></td>
+				</tr>
+					<tr class="Ability">
+						<th colspan="4" class="Ability">Forsee 1 for every player's deck.</th>
+					</tr>
+					<tr>
+						<th colspan="4" class="Empty"></th>
+					</tr>
+					<tr>
+						<th colspan="4">Spell - Divination</th>
+					</tr>
+		</table>
+
+		<table id="c7">
+				<tr>
+					<th colspan="3">Thorncaller</th>
+					<th><span class="greendot"></span></th>
+				</tr>
+				<tr>
+					<td><b>Statistics</b></td>
+					<td class="right"><b>6</b></td>
+					<td class="right"><b>5</b></td>
+					<td class="right"><b>6</b></td>
+				</tr>
+					<tr class="Ability">
+						<th colspan="4" class="Ability">Draw 2 Thornlings from your deck.</th>
+					</tr>
+					<tr>
+						<th colspan="4" class="Empty"></th>
+					</tr>
+					<tr>
+						<th colspan="4">Minion - Thornling Druid</th>
+					</tr>
+		</table>
+	</div>
+
+	<br>
+
+	<div id="row2">
+		<table id="c1">
+		<tr>
+			<th colspan="3">Xanaris Guardian</th>
+			<th><span class="greendot"></span><span class="whitedot"></span></th>
+		</tr>
+		<tr>
+			<td><b>Statistics</b></td>
+			<td class="right"><b>5</b></td>
+			<td class="right"><b>7</b></td>
+			<td class="right"><b>8</b></td>
+		</tr>
+		<div>
+			<tr class="Ability">
+				<th colspan="4" class="Ability">Ranged.
+					<br>
+					<span class="greendot"></span><span class="greendot"></span>Give a minion +1/+1
+					<br>
+					<span class="whitedot"></span><span class="whitedot"></span><span class="greydot"></span><span class="greydot"></span>Deal two damage to all 
+					characters of one person.
+					<br>
+					<span class="greydot"></span><span class="greydot"></span><span class="greydot"></span><span class="greydot"></span>Flash. Counter a spell.
+				</th>
+			</tr>
+				<th colspan="4" class="Empty"></th>
+			</tr>
+			<tr>
+				<th colspan="4">Minion - Eladrin Archmage</th>
+			</tr>
+		</div>
+	</table>
+
+
+
+
+
+	<table id="c2">
+			<tr>
+				<th colspan="3">Fatsu</th>
+				<th><span class="blackdot"></span></th>
+			</tr>
+			<tr>
+				<td><b>Statistics</b></td>
+				<td class="right"><b>4</b></td>
+				<td class="right"><b>4</b></td>
+				<td class="right"><b>4</b></td>
+			</tr>
+				<tr class="Ability">
+					<th colspan="4" class="Ability">Shield</th>
+				</tr>
+				<tr>
+					<th colspan="4" class="Empty"></th>
+				</tr>
+				<tr>
+					<th colspan="4">Minion - </th>
+				</tr>
+	</table>
+
+	<table id="c3">
+		<tr>
+			<th colspan="3">Soldier's Quarters</th>
+			<th><span class="greydot"></span><span class="greydot"></span></th>
+		</tr>
+		<tr>
+			<td><b>Statistics</b></td>
+			<td class="right"><b>-</b></td>
+			<td class="right"><b>-</b></td>
+			<td class="right"><b>2</b></td>
+		</tr>
+			<tr class="Ability">
+				<th colspan="4" class="Ability"></th>
+			</tr>
+			<tr>
+				<th colspan="4" class="Empty"></th>
+			</tr>
+			<tr>
+				<th colspan="4">Biome</th>
+			</tr>
+	</table>
+
+
+
+
+
+	<table id="c4">
+			<tr>
+				<th colspan="3">Lightning Soldier</th>
+				<th><span class="whitedot"></span></th>
+			</tr>
+			<tr>
+				<td><b>Statistics</b></td>
+				<td class="right"><b>5</b></td>
+				<td class="right"><b>5</b></td>
+				<td class="right"><b>5</b></td>
+			</tr>
+				<tr class="Ability">
+					<th colspan="4" class="Ability">Flurry</th>
+				</tr>
+				<tr>
+					<th colspan="4" class="Empty"></th>
+				</tr>
+				<tr>
+					<th colspan="4">Minion - Human Soldier</th>
+				</tr>
+	</table>
+
+	<table id="c5">
+			<tr>
+				<th colspan="3">Apprentice of Imerta</th>
+				<th><span class="bluedot"></span></th>
+			</tr>
+			<tr>
+				<td><b>Statistics</b></td>
+				<td class="right"><b>3</b></td>
+				<td class="right"><b>4</b></td>
+				<td class="right"><b>4</b></td>
+			</tr>
+				<tr class="Ability">
+					<th colspan="4" class="Ability">Divine Shield, Flurry</th>
+				</tr>
+				<tr>
+					<th colspan="4" class="Empty"></th>
+				</tr>
+				<tr>
+					<th colspan="4">Minion - Human Paladin</th>
+				</tr>
+	</table>
+
+
+
+
+
+		<table id="c6">
+				<tr>
+					<th colspan="3">Detect Thoughts</th>
+					<th><span class="pinkdot"></span></th>
+				</tr>
+				<tr>
+					<td><b>Statistics</b></td>
+					<td class="right"><b>-</b></td>
+					<td class="right"><b>-</b></td>
+					<td class="right"><b>4</b></td>
+				</tr>
+					<tr class="Ability">
+						<th colspan="4" class="Ability">Forsee 1 for every player's deck.</th>
+					</tr>
+					<tr>
+						<th colspan="4" class="Empty"></th>
+					</tr>
+					<tr>
+						<th colspan="4">Spell - Divination</th>
+					</tr>
+		</table>
+
+		<table id="c7">
+				<tr>
+					<th colspan="3">Thorncaller</th>
+					<th><span class="greendot"></span></th>
+				</tr>
+				<tr>
+					<td><b>Statistics</b></td>
+					<td class="right"><b>6</b></td>
+					<td class="right"><b>5</b></td>
+					<td class="right"><b>6</b></td>
+				</tr>
+					<tr class="Ability">
+						<th colspan="4" class="Ability">Draw 2 Thornlings from your deck.</th>
+					</tr>
+					<tr>
+						<th colspan="4" class="Empty"></th>
+					</tr>
+					<tr>
+						<th colspan="4">Minion - Thornling Druid</th>
+					</tr>
+		</table>
+	</div>
+</body>
+</html>

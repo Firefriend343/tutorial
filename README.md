@@ -8,3 +8,4 @@ DAN INSTRUCTION BOARD
 Aryan' Cards
 
 1. Bayport Assasin-Stats: 7, 1, 4-Ability-Stealth-Minion-Human Assasin
+2. Fatsu-Stats: 4,4,4-Abillity-Shield-Minion-Fatsu

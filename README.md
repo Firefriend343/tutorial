@@ -9,4 +9,6 @@ Aryan's Cards
 
 1. Bayport Assasin-Stats: 7, 1, 4-Ability-Stealth-Minion-Human Assasin
 2. Fatsu-Stats: 4,4,4-Abillity-Shield-Minion-Fatsu
-3. Aryan is a God!!!!!
+3. Henry: Aryan is a God!!!!!
+
+Message from Aryan: Why thank you Henry!

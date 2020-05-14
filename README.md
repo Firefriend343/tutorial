@@ -9,4 +9,4 @@ Aryan's Cards
 
 1. Bayport Assasin-Stats: 7, 1, 4-Ability-Stealth-Minion-Human Assasin
 2. Fatsu-Stats: 4,4,4-Abillity-Shield-Minion-Fatsu
-3. why do we have these things about cards here
+3. why do we have these things about cards here     Answer: we're not supposed to, aryan put it there (he was supposed to put it on the other one, and he did (not really), but he never took it off here)

@@ -22,8 +22,10 @@ Coding For Kids Lesson 2|5
   function move(el) {
     var positionTop = Math.floor(Math.random() * 800);
     var positionLeft = Math.floor(Math.random() * 1000);
+    var positionDegrees = Math.floor(Math.random() * 360)
     el.style.top = positionTop + "px";
     el.style.left = positionLeft + "px";
+    el.style.transform:rotate = positionDegrees + "deg";
   }
   
 </script>

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form</title>
+<style>
+/* my text formatting with css */
+body {
+	margin: 40px;
+	padding: 21px;
+	background-image: #413;
+	font-family: sans-serif; 
+}
+
+/* Styling id &amp classes Lecture*/
+#paragraph1 {
+	font-size: 30px;
+	font-family: monospace;
+	color: #687;
+	background: #555;
+	margin: 80px;
+	padding: 20px;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 10px 0;
+	font-family: serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 3.0em;
+}
+
+h2 {
+	font-size: 2.0em;
+}
+
+h3 {
+	font-size: 1.6em;
+	text-indent: 19em;
+	line-height: 34px;
+}
+
+em {
+	text-transform: lowercase;
+}
+
+strong {
+	font-kerning: bold;
+}
+
+/* Styling Web Forms Lecture*/
+#container{
+	width: 1500px;
+	margin: 0 auto;
+}
+fieldset {
+	padding: 10px;
+	border: solid 10px #aaa;
+	background: lightblue;
+
+}
+input[type="text"],
+input[type="email"],
+textarea{
+	padding: 10px;
+	border: solid 1px #454;
+	display: block;
+	margin: 0;
+	width:12.5%;
+	border-top: none;
+	font-size: 14px;
+	color: #777;
+	font-family: Monaco, monospace;
+	text-align: center;
+}
+input[type="radio"]
+{
+	width: 20px;
+	height: 20px;
+}	
+fieldset legend{
+	background: white;
+	border:solid 2px #aaa; 
+	text-align: center;
+	}
+label{
+	font-size: 12px;
+	text-transform: capitalize;
+	background: black;
+	display: block;
+	width: 12.5%;
+	height: 7px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+
+input[type="submit"]
+{
+	background: blue;
+	height: 40px;
+	border: solid 1.5px #777;
+	padding: 0 40px;
+	color: orange;
+}
+input[type="submit"]: hover {
+cursor: crosshair;
+border-color: #676;
+}
+input[type="submit"]: active{
+border-color: #137; 
+outline-color: red;
+}
+/* CSS Floats */
+#floats {
+	background: #d41;
+}
+
+#floats #container{
+background: white;
+padding: 2em;
+}
+
+#aryan {
+	float:right; 
+	margin: 100px, 0, 10px, 20px;
+}
+
+#maincolumn {
+	width: 65em;
+	float:left;
+	margin-bottom: 20px;
+	color:black;
+	background:blue;
+}
+#sidebar {
+	width: 64em;
+	float:left;
+	background:#fb3;
+	margin-bottom:2em;
+	padding:10px;
+}
+.clearfix: after{
+	content: "";
+	display: table;
+	clear: both;
+}
+#footer{
+	clear: both;
+	width: 64em;
+	background: #333;
+	color: white;
+	padding: 10px;
+	margin: 10px 0;
+}
+
+/* CSS Positioning */
+#positioning{
+	background: #1b4e5e;
+}
+
+#positioning #container {
+	background: white;
+	padding: 20px;
+	position: relative;
+	height: 2000px;
+}
+
+#positioning h2{
+	font-size: 18px;
+}
+
+.box {
+	text-align:center;
+	font-family:relative,monospace,sans-serif;
+	font-size:23.7px;
+	background:black;
+	color:white;
+	height:200px;
+	width:200px;
+	text-transform:uppercase;
+	font-weight: bold;
+	line-height: 200px;
+}
+
+#relative {
+	position: relative;
+	top:-10px;
+	left:-40px;
+}
+
+#absolute {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#fixed {
+	position:fixed; 
+	bottom:10px;
+	left:300px;
+}
+</style>
+</head>
+<body>
+<div id="container">
+				<h1>Styling Forms</h1>
+					<form>
+						<fieldset>
+							<legend>Contact Us Person!</legend>
+						<label for="form-name">Your name(Put it here dude)</label>
+							<input type="text" id="form-name">
+								<label for="form-email">Your email(Put it here dude)</label>
+							<input type="text" id="form-email">
+								<label for="form-adress">Your adress(Put it here dude)</label>
+							<input type="text" id="form-adress">
+								<label for="form-phone">Your phone(Put it here dude)</label>
+							<input type="text" id="form-phone">
+						</fieldset>
+					</form>
+</div>
+
+<button><a href = "lesson2|8.html">Next Lesson</a></button>
+</body>
+</html>

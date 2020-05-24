@@ -12,10 +12,20 @@ Coding For Kids Lesson 2|5
 </style>
 </head>
 <body>
-<img class="planet" src="desertplanet1.png"> </img>
+<img class="planet" src="desertplanet1.png" onclick="move(this)"> </img>
 
 
 <p> In this lesson, we will be learning to implement sprites and to make them move around. For example, in this lesson we have a sprite.</p>
-<p> </p>
+
+<script>
+  
+  function move(el) {
+    var position = Math.floor(Math.random() * 400);
+    element.style.top = position + "px";
+    element.style.left = position + "px";
+  }
+  
+</script>
+  
 </body>
 </html>

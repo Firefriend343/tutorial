@@ -4,7 +4,7 @@
 Coding For Kids Lesson 2|5
 </title>
 <style> 
-.planet { position:absolute; width:100px; height:100px; top:500px; left:500px; image-rendering:pixelated;} 
+.planet { position:absolute; width:100px; height:100px; top:500px; left:500px; image-rendering:pixelated; transition:0.1s;} 
   #planet { /*yee*/ }
 
 
@@ -20,9 +20,10 @@ Coding For Kids Lesson 2|5
 <script>
   
   function move(el) {
-    var position = Math.floor(Math.random() * 400);
-    el.style.top = position + "px";
-    el.style.left = position + "px";
+    var positionTop = Math.floor(Math.random() * 400);
+    var positionLeft = Math.floor(Math.random() * 400);
+    el.style.top = positionTop + "px";
+    el.style.left = positionLeft + "px";
   }
   
 </script>

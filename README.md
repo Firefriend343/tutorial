@@ -11,5 +11,10 @@ Aryan's Cards
 2. Fatsu-Stats: 4,4,4-Abillity-Shield-Minion-Fatsu
 3. Aryan: Henry is a God!!!!!
 
-Message from Henry: Why thank you Aryan!
-Actual Henry: I never said that
+Henry: Let us all bow down to his holy ruler, the YEE DINO!
+Dan: (Plays Clash) Yay! I got so much loot!
+Henry: Dan, stop playing Clash!
+YEE DINO: (Plays Clash) Hey! Somebody just looted me!
+Everybody: DAN!!!!!
+
+Supercell: ...

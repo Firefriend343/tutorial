@@ -9,7 +9,7 @@ Aryan's Cards
 
 1. Bayport Assasin-Stats: 7, 1, 4-Ability-Stealth-Minion-Human Assasin
 2. Fatsu-Stats: 4,4,4-Abillity-Shield-Minion-Fatsu
-3. Aryan: Henry is a God!!!!!
+3. Henry: Dan is a God!!!!!
 
 Henry: Let us all bow down to his holy ruler, the YEE DINO!
 Dan: (Plays Clash) Yay! I got so much loot!
